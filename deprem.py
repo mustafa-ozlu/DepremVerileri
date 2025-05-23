@@ -6,7 +6,7 @@ from openpyxl.styles import Alignment
 from openpyxl.styles import PatternFill
 import os
 
-# Sarı dolgu tanımı
+# Renkli dolgu tanımı
 yellow_fill = PatternFill(start_color="FFFF00", end_color="FFFF00", fill_type="solid")
 red_fill = PatternFill(start_color="FF2400", end_color="FF2400", fill_type="solid")
 
