@@ -11,7 +11,7 @@ Kandilli Rasathanesi sitesinden deprem verileri alıp Excel dosyası olarak kayd
 gerekli kütüphaneleri pip install ile  yükleyin
 
 ```bash 
-  pip install pandas requests
+  pip install pandas requests openpyxl
   
 ```
 
